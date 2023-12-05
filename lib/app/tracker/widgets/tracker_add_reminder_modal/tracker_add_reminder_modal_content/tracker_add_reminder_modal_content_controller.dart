@@ -1,0 +1,4 @@
+import 'package:beebloom_water_tracker/app/core/controllers/base_controller.dart';
+import 'package:beebloom_water_tracker/app/tracker/widgets/tracker_add_reminder_modal/tracker_add_reminder_modal_content/tracker_add_reminder_modal_content_cubit.dart';
+
+class TrackerAddReminderModalContentController extends BaseController<TrackerAddReminderModalContentCubit>{}

@@ -1,0 +1,8 @@
+import 'package:beebloom_water_tracker/app/tracker/widgets/trackers_change_drink_type_modal/trackers_change_drink_type_modal_content/trackers_change_drink_type_modal_content_cubit.dart';
+
+import 'package:beebloom_water_tracker/app/core/controllers/base_controller.dart';
+
+
+class TrackersChangeDrinkTypeModalContentController extends BaseController<TrackersChangeDrinkTypeModalContentCubit>  {
+}
+

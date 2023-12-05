@@ -1,0 +1,5 @@
+import 'package:beebloom_water_tracker/app/core/controllers/base_controller.dart';
+import 'package:beebloom_water_tracker/app/notifications/widgets/notifications_received_notifications/notifications_received_notifications_cubit.dart';
+
+class NotificationsReceivedNotificationsController extends BaseController<NotificationsReceivedNotificationsCubit>{
+}

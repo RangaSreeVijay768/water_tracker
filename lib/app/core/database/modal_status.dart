@@ -1,0 +1,1 @@
+enum ModalStatus { opened, closed }

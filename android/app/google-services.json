@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181397097349",
+    "project_id": "hydromate-3e8db",
+    "storage_bucket": "hydromate-3e8db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181397097349:android:1fe690e6f246f632e852ec",
+        "android_client_info": {
+          "package_name": "com.s7dotss.hydromate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA405Bu5eaAIbESLIea6Vh9AIYHFcPtxgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

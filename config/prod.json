@@ -1,0 +1,22 @@
+{
+  "name": "production",
+  "adUnits": {
+    "bannerAd": {
+      "android": "ca-app-pub-3409458246157632/5630156738",
+      "ios": "ca-app-pub-3409458246157632/4316316892"
+    },
+    "nativeAd": {
+      "android": "ca-app-pub-3409458246157632/1753371349",
+      "ios": "ca-app-pub-3409458246157632/3386378605"
+    },
+    "appOpenAd": {
+      "android": "ca-app-pub-3409458246157632/1576354900",
+      "ios": "ca-app-pub-3409458246157632/6637109898"
+    },
+    "interstitialAd": {
+      "android": "ca-app-pub-3409458246157632/3561969931",
+      "ios": "ca-app-pub-3409458246157632/3150906392"
+    }
+  },
+  "isTesting": false
+}

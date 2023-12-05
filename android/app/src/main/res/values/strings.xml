@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_widget_description">App widget\n</string>
+    <string name="drink_water">Drink water\n</string>
+    <string name="time">Time\n</string>
+    <string name="next_activity">Next activity</string>
+    <string name="completed">Completed</string>
+    <string name="today">Today</string>
+    <string name="defaultTime">4:30 pm</string>
+    <string name="defaultDrinkType">Water</string>
+</resources>
